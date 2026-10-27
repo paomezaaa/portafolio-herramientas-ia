@@ -8,12 +8,11 @@
 **Grupo:** [A1 ] · **Equipo:** [ 3]
 ## 👥 Integrantes
 
-| Nombre Completo     | Matricula |
-| :------------------ | :-------- |
-| Paola Meza          | 198070-8  |
-| Fernanda Monterubio | 198183-9  |
-| Jose Arturo         | 198131-7  |
-| Ian Alejandro       | 198165-2  |
+| Nombre Completo     | 
+| :------------------ | 
+| Paola Meza          | 
+| Fernanda Monterubio | 
+| Jose Arturo         | 
 
   
 
