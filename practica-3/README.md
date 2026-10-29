@@ -53,15 +53,6 @@ flowchart TD
 
 ## 3. Viabilidad de hardware
 
-  
-
-$$
-
-\text{Memoria mínima} = N \times 2\ \text{bytes} \approx \ ?\ \text{GB}
-
-$$
-
-  
 
 - **VRAM disponible en Colab:** (15)GB (GPU T4)
 
@@ -80,4 +71,5 @@ $$
 - **Mitigación:** Implementar una regla estricta de palabras clave (hardcoded guardrail) que detecte crisis e interrumpa al modelo para mostrar directamente números de emergencia profesional, junto con una advertencia visible de que el sistema no es un terapeuta humano. 
 
 ## 5. Evidencia
-![Boceto de la aplicación](diagrama-equipo.png)
+![evidencia](image.png)
+  
