@@ -71,5 +71,5 @@ flowchart TD
 - **Mitigación:** Implementar una regla estricta de palabras clave (hardcoded guardrail) que detecte crisis e interrumpa al modelo para mostrar directamente números de emergencia profesional, junto con una advertencia visible de que el sistema no es un terapeuta humano. 
 
 ## 5. Evidencia
-![evidencia](image.png)
+![evidencia](evidencia.png)
   
