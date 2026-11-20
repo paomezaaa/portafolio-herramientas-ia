@@ -11,8 +11,6 @@ clasificador = pipeline(
     model="google/mobilenet_v2_1.0_224",
     device=device,
 )
-
-
 def clasificar(imagen):
     """Recibe una imagen (PIL.Image o numpy array) y devuelve las 3 etiquetas
     más probables con su porcentaje (0.0 a 100.0) en un diccionario."""
